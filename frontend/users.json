@@ -1,0 +1,24 @@
+
+
+
+{
+  "review":[
+    {
+  "firstName": "Иван",
+  "lastName": "Иванов",
+  "email": "ivanov@example.com",
+  "photo": "https://example.com/photo.jpg",
+  "rating": 4,
+  "comment": "Отличный продукт, всем рекомендую!"
+},
+{
+  "firstName": "dsds",
+  "lastName": "dsdsdsdsds",
+  "email": "ivanov1111111122@example.com",
+  "photo": "https://example.com/photo.jpg",
+  "rating": 4,
+  "comment": "Отличный продукт, всем рекомендую!"
+}
+
+]
+} 

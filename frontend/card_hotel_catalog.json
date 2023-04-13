@@ -1,0 +1,92 @@
+{
+  "hotels": [
+    {
+      "id": "1",
+      "image": "1.jpg",
+      "name": "Europe",
+      "categories": "Отели",
+      "number_of_reviews": "22",
+      "rating": 5,
+      "avalible": "true"
+    },
+    {
+      "id": "2",
+      "image": "2.jpg",
+      "name": "Таrber",
+      "categories": "Отели",
+      "number_of_reviews": "43",
+      "rating": 3,
+      "avalible": "true"
+    },
+    {
+      "id": "3",
+      "image": "3.jpg",
+      "name": "Комфорт",
+      "categories": "Отели",
+      "number_of_reviews": "48",
+      "rating": 1,
+      "avalible": "true"
+    },
+    {
+      "id": "4",
+      "image": "4.jpg",
+      "name": "Таганрог",
+      "categories": "Отели",
+      "number_of_reviews": "56",
+      "rating": 3.42,
+      "avalible": "true"
+    },
+    {
+      "id": "5",
+      "image": "5.jpg",
+      "name": "Центральный",
+      "categories": "Отели",
+      "number_of_reviews": "77",
+      "rating": 2.5,
+      "avalible": "true"
+    },
+    {
+      "id": "6",
+      "image": "6.jpg",
+      "name": "Ализе",
+      "categories": "Отели",
+      "number_of_reviews": "33",
+      "rating": 1.5,
+      "avalible": "true"
+    }
+   
+  ],
+  
+    "top_3_products": [
+      { "id":"1",
+      "image": "1.jpg",
+      "name":"Таганрогский художественный музей",
+      "categories":"Музеи/Гелереи",
+      "number_of_reviews":"22",
+      "rating": 2,
+      "avalible":"true"
+      
+        
+      },
+      {"id":"2",
+        "image":"2.jpg",
+      "name":"Музей градостроительство и быт города Таганрога",
+      "categories":"Музеи/Гелереи",
+      "number_of_reviews":"43",
+      "rating": 3,
+      "avalible":"true"
+      
+        
+      },
+      { "id":"3",
+        "image":"3.jpg",
+       "name":"Музей Лавка Чеховых",
+       "categories":"Музеи/Гелереи",
+      "number_of_reviews":"48",
+      "rating": 2,
+      "avalible":"true"
+      }
+      
+    ]
+    
+}
